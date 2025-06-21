@@ -1,0 +1,370 @@
+/* style navbar and back ground */
+.navbar{
+    width: 100%;
+    height: 100vh;
+     background-image: url(../img/drew-coffman-1872.jpg);
+     background-size: cover;
+     background-repeat:no-repeat ;
+     background-position: center;
+     
+ }
+ 
+ 
+ .navbar_logo{
+    float: left;
+     padding-top: 20px;
+     padding-left: 50px;
+ }
+ 
+ .navbar_list{    
+     float: right;
+     padding-top: 20px;
+     margin-right: 100px;
+     color: black;
+     text-decoration: none;
+     font-family: stack;
+     font-size: 18px;
+     font-weight: 400;
+     
+ }
+ 
+ .float{
+     float: left;
+     margin-left: 40px;
+     }
+
+     .clr{
+        clear: both;
+     }
+ 
+     ul{
+         list-style-type: none;   
+     }
+
+     .navbar_list ul a li  {
+        text-decoration: none;
+        color: white;
+     }
+
+     body{
+        margin: 0;
+     }
+
+     
+
+     h1.navbar{
+        margin-top: 50px;
+     }
+
+     .hero-content{
+        margin-top: 75px;
+        border-radius: 10px;
+        color: white;     
+       text-align: center;
+        
+     }
+
+     .hero h1{
+        font-size: 50px;
+        font-weight: bold;
+        font-family: "Alegreya", serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 76px;
+     }
+
+     .hero p{
+        font-size: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+        font-family: "Alegreya Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+     }
+
+     .hero span{
+        font-family: "Alegreya Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 24;
+     }
+
+
+     .btn{
+        color: white;
+        background-color: #8e7754;
+        padding-top: 18px ;
+        padding-bottom: 18px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-decoration: none;
+        font-size: 16px ;
+        border-radius: 5px;
+        display: inline-block;
+        margin: 5px ;
+        border: 2px solid #8e7754;
+        font-family: "Alegreya Sans", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        background: transparent;
+        text-align: center;
+        transition: 0.3s;
+        text-align: center;
+     }
+
+     .btn2{
+        color: white;
+        padding-top: 18px ;
+        padding-bottom: 18px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-decoration: none;
+        font-size: 16px ;
+        border-radius: 5px;
+        display: inline-block;
+        margin: 5px ;
+        border: 2px solid white;
+        font-family: "Alegreya Sans", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        background: transparent;
+        text-align: center;
+        transition: 0.3s;
+        text-align: center;
+     }
+
+     
+
+/* end of navbar and back ground */
+
+
+/* style page one */
+.page2{
+    background-color: f8f8f8;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.par1{
+  float: left;
+    width: 50%;
+    margin-left: 40px;
+
+}
+
+.img1{
+   float: right;
+    width: 40%;
+    margin-right: 30px;
+
+}
+
+.par1 p{
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:RGB(104, 104, 104);
+}
+
+.par1 h2{
+    font-size: 32px;
+    font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/*end of  style page one */
+
+/* style of  page two */
+
+.item{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+.page3{
+    text-align: center;
+}
+
+.page3 p{
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:RGB(104, 104, 104);
+}
+
+.item h2{
+    font-size: 22px;
+    font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: RGB(48, 48, 48);
+}
+
+.page3 h1{
+    font-size: 30px;
+    font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: RGB(48, 48, 48);
+}
+/*end of  style page two */
+
+/* style page three */
+
+
+.page1{
+    margin-top: 50px;
+    line-height: 20px;
+}
+
+.sec2{
+    float: right;
+    width: 40%;
+    line-height: 40px;
+    margin-right: 50px;
+}
+
+.img2{
+    width: 30%;
+    float: left;
+    margin-left: 50px;  
+}
+
+.text h1{
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text p{
+    
+        font-family: "Alegreya Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: RGB(104, 104, 104);
+      }
+      
+
+
+
+tr{
+    line-height: 60px;
+    font-family: "Alegreya Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: RGB(104, 104, 104);
+}
+
+/*end of  style page three */
+
+/* style page four */
+.page4{
+    margin-top: 100px;
+}
+
+.sec3{
+    float: left;
+    width: 50%;
+    line-height: 30px;
+    margin-left: 50px;
+}
+
+.img3{
+    float: right;
+    width: 40%;
+    margin-right: 50px;
+}
+
+.text2 h1{
+    margin-bottom: 40px;
+    font-size: 32px;
+    font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: RGB(48, 48, 48);
+}
+
+.text2 p{
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: RGB(104, 104, 104);
+}
+
+/*end of  style page four */
+
+
+/*style menu page */
+
+.menu{
+    margin-top: 100px;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(64, 61, 56);
+}
+
+.part{
+    margin-left: 40px;
+    display: inline-block;
+    width: 20%;
+    font-size: 11px;
+    font-family: "Alegreya", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  color:RGB(255, 255, 255);
+  font-style: normal;
+}
+
+.ltext{
+    font-family: "Alegreya Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 16px;
+        color: RGB(150, 150, 150);
+}
+
+.ltext tr{
+    line-height: 25px;
+}
+
+#ltable{
+    margin-left: 0px;
+    background-image: url(../img/contact-details-map.png );
+     background-size: auto;
+     background-repeat:no-repeat ;
+     background-position: center;
+     backface-visibility: hidden;
+}
+
+.part h2{
+    margin-bottom: 20px;
+}
+
+.footer{
+    background-color: RGB(53, 51, 48);    
+    text-align: center;
+}
+
+.footer span{
+    font-family: "Alegreya Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 15px;
+        color: RGB(119, 119, 119);
+}
+
+/*end of style menu page */
